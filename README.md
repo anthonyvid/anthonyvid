@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn-images-1.medium.com/v2/1*ZSSzJtE6J5C5BEfcIVAO0w.jpeg)](https://anthonyvidovic.com)
 <h1 align="center">Hi 👋, I'm Anthony Vidovic</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">I’m passionate about building software that solves real problems and puts users first.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonyvid&label=Profile%20views&color=0e75b6&style=flat" alt="anthonyvid" /> </p>
 
